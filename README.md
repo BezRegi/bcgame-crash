@@ -1,2 +1,2 @@
-# bcgame-crash
+.# bcgame-crash
 bcgame-crash
